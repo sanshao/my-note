@@ -6,3 +6,6 @@ Galaxy是一个开源的大型UI库，由社区制作，免费使用，提供超
 
 ### RockChinQ/LangBot 
 LangBot是一个大模型原生即时通信机器人平台，支持QQ、微信等多个消息平台和OpenAI GPT等多个大模型，具备高稳定性和插件扩展能力。使用 Python 开发.
+
+### open-webui/open-webui 
+Open WebUI是一个用户友好、功能丰富的自托管AI平台，支持离线全功能操作，集成Ollama和OpenAI API，提供强大的AI部署方案。使用 JavaScript 开发.
